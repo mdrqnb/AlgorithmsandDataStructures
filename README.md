@@ -8,7 +8,7 @@ This project contains recursive solutions for 10 tasks.
 
 ## Task 1 - Print Digits
 Output:
-![Снимок экрана 2026-03-20 163815.png](../../Pictures/Screenshots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-03-20%20163815.png)
+
 
 ## Task 2 - Average
 Output:
